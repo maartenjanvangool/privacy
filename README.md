@@ -10,3 +10,4 @@
      - Als de partij geld verdient met advertenties is deze op geen enkele manier te vertrouwen.
   2. Europese organisaties vertrouwen we meer dan Amerikaanse organisaties.
   3. Open source software vertrouwen we meer dan closed source software. 
+4. We kunnen niet alles in 1 keer veranderen. Focus op privacy en cyberveiligheid is belangrijk, maar is ook een werkje. 
