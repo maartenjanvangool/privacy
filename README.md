@@ -1,7 +1,7 @@
 # Privacy en Cyberveiligheid
 Documentje om mijn gedachtes op papier te zetten voor iets dat me bezighoudt de laatste tijd: privacy en security thuis. 
 
-Disclaimer: Ik heb dit misschien met je gedeeld, maar alles wat je op je apparaten doet blijft je eigen verantwoordelijkheid. Behalve voor een (zeer) select few ben ik en word ik geen helpdesk voor jou. Ik heb daar simpelweg de tijd of het geduld niet voor.
+Disclaimer: Ik heb dit misschien met je gedeeld, maar alles wat je op je apparaten doet blijft je eigen verantwoordelijkheid. Behalve voor een (zeer) select few ben ik en word ik geen helpdesk voor jou. Ik heb daar simpelweg de tijd of het geduld niet voor. Sorry ;-). 
 
 ## Uitgangspunten
 
