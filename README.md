@@ -29,3 +29,29 @@ Voor computer, tablet en telefoon:
 - Installeer en gebruik de browser Firefox. Firefox is een browser gemaakt door de Mozilla Foundation, en niet geinteresseerd in je data (itt bijvoorbeeld Chrome of Edge). 
 - Installeer de plugin uBlock Origin in je browser. Deze plugin blokkeert advertenties. Advertenties zijn niet alleen irritant, maar ze verzamelen ook informatie over je.
 - Stel DuckDuckGo in als zoekmachine. DuckDuckGo is een privacyvriendelijker alternatief voor Google.
+
+## Wachtwoorden en tweefactor (beetje moeilijk)
+
+- Installeer een password manager die te vertrouwen in (bijvoorbeeld van Proton).
+- Bewaar al je wachtwoorden in deze password manager.
+- Verander je belangrijkste wachtwoorden en stel tweefactor authenticatie in. Doe dit voor:
+  - e-mailaccounts
+  - Social media accounts (linkedin, Facebook, ...)
+  - Belangrijke andere accounts (Apple, Google, Microsoft, etc).
+ 
+## Backups en bestanden (beetje moeilijk)
+
+Bewaar je belangrijke bestanden in 3 backups: 
+1. Op je computer
+2. In een (veilige) cloud backup (aanrader: TransIP stack storage of Proton Drive)
+3. Op een losse externe harde schijf (maak een backup elke 2 of 3 maanden).
+
+## Verander van e-mailaccount naar een privacyvriendelijk alternatief (moeilijk)
+
+Proton Mail biedt superveilige end-to-end encryptie voor je e-mail. Nadeel is dat je e-mailadres verandert. In de overgang kan je je oude e-mail wel doorgestuurd worden naar je nieuwe account. 
+
+## Installeer Linux (heel moeilijk)
+
+Microsoft en Apple verzamelen steeds meer informaite over het gebruik van je computer. Daarnaast dwingen deze organisaties je nieuwe computers te kopen omdat ze geen support meer leveren op oude versies van software. Een open source alternatief neemt dit weg. Maar een ander besturingssysteem beteknet ook andere software en erg wennen.
+
+
