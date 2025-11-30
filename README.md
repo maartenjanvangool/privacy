@@ -1,6 +1,8 @@
 # Privacy en Cyberveiligheid
 Documentje om mijn gedachtes op papier te zetten voor iets dat me bezighoudt de laatste tijd: privacy en security thuis. 
 
+Disclaimer: Ik heb dit misschien met je gedeeld, maar alles wat je op je apparaten doet blijft je eigen verantwoordelijkheid. Behalve voor een (zeer) select few ben ik en word ik geen helpdesk voor jou. Ik heb daar simpelweg de tijd of het geduld niet voor.
+
 ## Uitgangspunten privacy
 
 1. Privacy is belangrijk, maar gebruikersvriendelijkheid ook.
@@ -91,5 +93,5 @@ Microsoft en Apple verzamelen steeds meer informaite over het gebruik van je com
 
 ## Installeer Googlevrij Android (heel moeilijk)
 
-Als je de juiste telefoon hebt kan je een google-vrije versie van android installeren, zoals GrapheneOS. Ik gebruik dat nu een aantal weken naar volle tevredenheid. 
+Als je de juiste telefoon hebt kan je een google-vrije versie van android installeren, zoals [GrapheneOS](https://grapheneos.org/). Ik gebruik dat nu een aantal weken naar volle tevredenheid. 
 
