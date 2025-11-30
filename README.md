@@ -1,4 +1,4 @@
-# privacy
+# Privacy en Cyberveiligheid
 
 ## Uitgangspunten
 
