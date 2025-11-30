@@ -3,7 +3,7 @@ Documentje om mijn gedachtes op papier te zetten voor iets dat me bezighoudt de 
 
 Disclaimer: Ik heb dit misschien met je gedeeld, maar alles wat je op je apparaten doet blijft je eigen verantwoordelijkheid. Behalve voor een (zeer) select few ben ik en word ik geen helpdesk voor jou. Ik heb daar simpelweg de tijd of het geduld niet voor.
 
-## Uitgangspunten privacy
+## Uitgangspunten
 
 1. Privacy is belangrijk, maar gebruikersvriendelijkheid ook.
 2. We proberen zo goed mogelijke keuzes te maken, maar we weten ook niet alles, en uiteindelijk moeten we (tot op zekere hoogte) bepaalde partijen vertrouwen met onze data.
