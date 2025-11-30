@@ -23,6 +23,19 @@ Maak een lijst van alle apparaten die je gebruikt en verbonden zijn met het inte
   - Zo ja, kan het informatie verzamelen over mij die ik niet wil? 
   - Zo ja, is het apparaat goedkoop te vervangen als de fabrikant het op afstand kapot maakt?  
 
+## Domotica
+Elk apparaat dat met een app bediend moet worden is een (potentieel) privacyprobleem en kan leiden tot onverwachte situaties. 
+- Fabrikanten kunnen het apparaat per ongeluk kapot maken door per ongeluk op afstand foutieve softwareupdates op het apparaat te installeren.
+- Fabrikanten kunnen doelbewust updates op het apparaat installeren die bepaalde functionaliteiten 'ineens' betaald maken.
+- Ga er vanuit dat alle informatie die het betreffende apparaat kan verzamelen verzameld wordt om onder andere te gebruiken gerichtere advertenties te tonen.
+
+Ik heb een slimme stofzuiger die in 2026 niet meer werkt omdat de fabrikant de ondersteuning stopt. Er bestaan koelkasten met een schermpje die je reclame laten zien op basis van wat je erin zet. Er zijn wifi-zendmasten die bijhouden waar je je bevindt in huis. Smart TV's met microfoons worden gebruikt om mensen af te luisteren. Dit is niet verzonnen allemaal. 
+
+Tips: 
+- Als het niet nodig is het apparaat te verbinden met het internet: DOE HET NIET.
+- Wees extra waakzaam bij camera's en microfoons (ook smart tv's kunnen microfoons bevatten).
+- Er zijn privacyvriendelijke alternatieven, zoals Home Asisstant. Maar dit is vooralsnog best veel werk en ingewikkeld... 
+
 ## Browsen (makkelijk)
 
 Voor computer, tablet en telefoon:
