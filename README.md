@@ -46,7 +46,7 @@ Bewaar je belangrijke bestanden in 3 backups:
 2. In een (veilige) cloud backup (aanrader: TransIP stack storage of Proton Drive)
 3. Op een losse externe harde schijf (maak een backup elke 2 of 3 maanden).
 
-## Verander van e-mailaccount naar een privacyvriendelijk alternatief (moeilijk)
+## Verander van e-mailaccount naar een privacyvriendelijk alternatief (veel werk)
 
 Proton Mail biedt superveilige end-to-end encryptie voor je e-mail. Nadeel is dat je e-mailadres verandert. In de overgang kan je je oude e-mail wel doorgestuurd worden naar je nieuwe account. 
 
