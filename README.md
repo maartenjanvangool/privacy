@@ -84,4 +84,7 @@ Bewaar je belangrijke bestanden op 3 plekken:
 
 Microsoft en Apple verzamelen steeds meer informaite over het gebruik van je computer. Daarnaast dwingen deze organisaties je nieuwe computers te kopen omdat ze geen support meer leveren op oude versies van software. Een open source alternatief neemt dit weg. Maar een ander besturingssysteem beteknet ook andere software en erg wennen. Ik gebruik al jaren [Ubuntu](https://ubuntu.com), een relatief eenvoudig te installeren besturingssysteem, ook voor relatieve leken (maar nog steeds veel werk). Kies altijd voor de LTS-versie (long term support). 
 
+## Installeer Googlevrij Android (heel moeilijk)
+
+Als je de juiste telefoon hebt kan je een google-vrije versie van android installeren, zoals GrapheneOS. Ik gebruik dat nu een aantal weken naar volle tevredenheid. 
 
