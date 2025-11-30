@@ -17,7 +17,11 @@
 ## Security en updates
 
 Maak een lijst van alle apparaten die je gebruikt en verbonden zijn met het internet. Denk aan telefoons, tablets en computers, maar ook Smart tv's, slimme stofzuigers, etc. 
-- Voor Tablets, telefoons en Computers: Welk besturingssysteem staat erop? Tot wanneer worden daar nog patches voor gemaakt? 
+- Voor Tablets, telefoons en Computers: Welk besturingssysteem staat erop? Tot wanneer worden daar nog patches voor gemaakt? Maak een lijstje; en weet welke apparaten je als eerst moet vervangen.
+- Voor alle andere apparaten:
+  - Is het echt nodig dat deze met het internet verbonden zijn?
+  - Zo ja, kan het informatie verzamelen over mij die ik niet wil? 
+  - Zo ja, is het apparaat goedkoop te vervangen als de fabrikant het op afstand kapot maakt?  
 
 ## Eenvoudige stappen
 
