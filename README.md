@@ -13,7 +13,7 @@ Documentje om mijn gedachtes op papier te zetten voor iets dat me bezighoudt de 
   3. Open source software vertrouwen we meer dan closed source software. 
 4. We kunnen niet alles in 1 keer veranderen. Focus op privacy en cyberveiligheid is belangrijk, maar is ook een werkje. 
 5. We hebben een specifiek wantrouwen richting Microsoft, Google, Meta (Facebook), Amazon en Apple.
-6. We hebben een specifiek wantrowuen richting de meeste AI tools. 
+6. We hebben een specifiek wantrouwen richting de meeste AI tools. 
 
 ## Apparaten (makkelijk)
 
