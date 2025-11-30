@@ -14,11 +14,14 @@
 5. We hebben een specifiek wantrouwen richting Microsoft, Google, Meta (Facebook), Amazon en Apple.
 6. We hebben een specifiek wantrowuen richting de meeste AI tools. 
 
-## Voorbereidingen
+## Security en updates
 
 Maak een lijst van alle apparaten die je gebruikt en verbonden zijn met het internet. Denk aan telefoons, tablets en computers, maar ook Smart tv's, slimme stofzuigers, etc. 
+- Voor Tablets, telefoons en Computers: Welk besturingssysteem staat erop? Tot wanneer worden daar nog patches voor gemaakt? 
 
 ## Eenvoudige stappen
 
-- Voor computer, tablet en telefoon: Installeer en gebruik de browser Firefox.
-- uBlock Origin
+Voor computer, tablet en telefoon:
+- Installeer en gebruik de browser Firefox. Firefox is een browser gemaakt door de Mozilla Foundation, en niet geinteresseerd in je data (itt bijvoorbeeld Chrome of Edge). 
+- Installeer de plugin uBlock Origin in je browser. Deze plugin blokkeert advertenties. Advertenties zijn niet alleen irritant, maar ze verzamelen ook informatie over je.
+- Stel DuckDuckGo in als zoekmachine. DuckDuckGo is een privacyvriendelijker alternatief voor Google.
