@@ -60,7 +60,7 @@ Voor computer, tablet en telefoon:
 
 Over het algemeen: apps die niet gemaakt zijn doro 
 
-## AI Tools
+## AI Tools (makkelijk)
 Wantrouw AI altijd. Maar als je het echt wil gebruiken, gebruik dan bij voorkeur een AI die je privacy wil beschermen: 
 - [Duck.ai](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1) van DuckDuckGo. 
 - [Lumo](https://lumo.proton.me) van Proton. 
