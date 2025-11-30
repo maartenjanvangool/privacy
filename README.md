@@ -56,6 +56,8 @@ Voor computer, tablet en telefoon:
 - TomTom boven google (of apple) maps
 - CleanTube boven YouTube
 
+Over het algemeen: apps die niet gemaakt zijn doro 
+
 ## Wachtwoorden en tweefactor (beetje moeilijk)
 
 - Installeer een password manager die te vertrouwen in (bijvoorbeeld van [Proton](https://proton.me/pass) (is een Zwitsers bedrijf dat als verdienmodel privacy heeft. Ik vertrouw ze)).
