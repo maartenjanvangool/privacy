@@ -44,11 +44,13 @@ Tips:
 ## Browsen (makkelijk)
 
 Voor computer, tablet en telefoon:
-- Installeer en gebruik de browser Firefox. Firefox is een browser gemaakt door de Mozilla Foundation, en niet geinteresseerd in je data (itt bijvoorbeeld Chrome of Edge). 
-- Installeer de plugin uBlock Origin in je browser. Deze plugin blokkeert advertenties. Advertenties zijn niet alleen irritant, maar ze verzamelen ook informatie over je.
-- Stel DuckDuckGo in als zoekmachine. DuckDuckGo is een privacyvriendelijker alternatief voor Google.
+- Installeer en gebruik de browser Firefox. [Firefox](https://www.firefox.com/nl/browsers/desktop/) is een browser gemaakt door de Mozilla Foundation, en niet geinteresseerd in je data (itt bijvoorbeeld Chrome of Edge). 
+- Installeer de plugin [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) in je browser. Deze plugin blokkeert advertenties. Advertenties zijn niet alleen irritant, maar ze verzamelen ook informatie over je.
+- Installeer zo min mogelijk plugins verder. Wantrouw plugins tot in het extreme. Plugins kunnen vaak alles zien wat je browst.
+- Installeer geen AI tools in je browser. De AI (en dus het bedrijf erachter) kan niet alleen zien wat je doet, maar kan ook vaak acties uitvoeren in je browser. Dit is supergevaarlijk. 
+- Stel [DuckDuckGo](https://duckduckgo.com/) in als zoekmachine. DuckDuckGo is een privacyvriendelijker alternatief voor Google. 
 
-## Apps (makkelijk)
+## Apps op telefoon of Tablet (makkelijk)
 - Firefox boven Chrome of Safari
 - Signal boven Whatsapp
 - TomTom boven google (of apple) maps
@@ -56,26 +58,26 @@ Voor computer, tablet en telefoon:
 
 ## Wachtwoorden en tweefactor (beetje moeilijk)
 
-- Installeer een password manager die te vertrouwen in (bijvoorbeeld van Proton).
-- Bewaar al je wachtwoorden in deze password manager.
-- Verander je belangrijkste wachtwoorden en stel tweefactor authenticatie in. Doe dit voor:
+- Installeer een password manager die te vertrouwen in (bijvoorbeeld van [Proton](https://proton.me/pass) (is een Zwitsers bedrijf dat als verdienmodel privacy heeft. Ik vertrouw ze)).
+- Bewaar al je wachtwoorden in deze password manager (en niet meer elders).
+- Verander je belangrijkste wachtwoorden en stel tweefactor authenticatie in. Doe dit in ieder geval voor:
   - e-mailaccounts
   - Social media accounts (linkedin, Facebook, ...)
   - Belangrijke andere accounts (Apple, Google, Microsoft, etc).
  
 ## Backups en bestanden (beetje moeilijk)
 
-Bewaar je belangrijke bestanden in 3 backups: 
+Bewaar je belangrijke bestanden op 3 plekken: 
 1. Op je computer
-2. In een (veilige) cloud backup (aanrader: TransIP stack storage of Proton Drive)
-3. Op een losse externe harde schijf (maak een backup elke 2 of 3 maanden).
+2. In een (veilige) cloud backup (aanrader: [TransIP stack storage](https://www.transip.nl/stack/) of [Proton Drive](https://proton.me/drive)). Synchroniseer deze constant. 
+3. Op een losse externe harde schijf (maak een backup elke 2 of 3 maanden). Bewaar ook als het even kan meerdere oudere backups. 
 
 ## Verander van e-mailaccount naar een privacyvriendelijk alternatief (veel werk)
 
-Proton Mail biedt superveilige end-to-end encryptie voor je e-mail. Nadeel is dat je e-mailadres verandert. In de overgang kan je je oude e-mail wel doorgestuurd worden naar je nieuwe account. 
+[Proton Mail](https://mail.proton.me/) biedt superveilige end-to-end encryptie voor je e-mail. Nadeel is dat je e-mailadres verandert. In de overgang kan je je oude e-mail wel doorgestuurd worden naar je nieuwe account. 
 
 ## Installeer Linux (heel moeilijk)
 
-Microsoft en Apple verzamelen steeds meer informaite over het gebruik van je computer. Daarnaast dwingen deze organisaties je nieuwe computers te kopen omdat ze geen support meer leveren op oude versies van software. Een open source alternatief neemt dit weg. Maar een ander besturingssysteem beteknet ook andere software en erg wennen.
+Microsoft en Apple verzamelen steeds meer informaite over het gebruik van je computer. Daarnaast dwingen deze organisaties je nieuwe computers te kopen omdat ze geen support meer leveren op oude versies van software. Een open source alternatief neemt dit weg. Maar een ander besturingssysteem beteknet ook andere software en erg wennen. Ik gebruik al jaren [Ubuntu](https://ubuntu.com), een relatief eenvoudig te installeren besturingssysteem, ook voor relatieve leken (maar nog steeds veel werk). Kies altijd voor de LTS-versie (long term support). 
 
 
