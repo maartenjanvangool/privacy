@@ -60,8 +60,8 @@ Over het algemeen: apps die niet gemaakt zijn doro
 
 ## AI Tools
 Wantrouw AI altijd. Maar als je het echt wil gebruiken, gebruik dan bij voorkeur een AI die je privacy wil beschermen: 
-- [Duck.ai](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1)
-- [Lumo](https://lumo.proton.me) (van Proton). 
+- [Duck.ai](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1) van DuckDuckGo. 
+- [Lumo](https://lumo.proton.me) van Proton. 
 
 ## Wachtwoorden en tweefactor (beetje moeilijk)
 Password management is erg belangrijk voor je online veiligheid, maar ook wel ingewikkeld: Je wil het veilig houden, maar je wil ook niet de toegang tot je account(s) verliezen. Je moet wel een beetje een ervaren gebruiker zijn, of je laten helpen!
