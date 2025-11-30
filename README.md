@@ -69,7 +69,7 @@ Wantrouw AI altijd. Maar als je het echt wil gebruiken, gebruik dan bij voorkeur
 Password management is erg belangrijk voor je online veiligheid, maar ook wel ingewikkeld: Je wil het veilig houden, maar je wil ook niet de toegang tot je account(s) verliezen. Je moet wel een beetje een ervaren gebruiker zijn, of je laten helpen!
 
 - Installeer een password manager die te vertrouwen in (bijvoorbeeld van [Proton](https://proton.me/pass) (is een Zwitsers bedrijf dat als verdienmodel privacy heeft. Ik vertrouw ze)).
-- Bewaar al je wachtwoorden in deze password manager (en niet meer elders).
+- Bewaar al je wachtwoorden in deze password manager (en niet meer elders). Stel ook zoveel als mogelijk nieuwe wachtwoorden in. De password manager kan je helpen. 
 - Verander je belangrijkste wachtwoorden en stel tweefactor authenticatie in. Doe dit in ieder geval voor:
   - e-mailaccounts
   - Social media accounts (linkedin, Facebook, ...)
