@@ -59,6 +59,7 @@ Voor computer, tablet en telefoon:
 Over het algemeen: apps die niet gemaakt zijn doro 
 
 ## Wachtwoorden en tweefactor (beetje moeilijk)
+Password management is erg belangrijk voor je online veiligheid, maar ook wel ingewikkeld: Je wil het veilig houden, maar je wil ook niet de toegang tot je account(s) verliezen. Je moet wel een beetje een ervaren gebruiker zijn, of je laten helpen!
 
 - Installeer een password manager die te vertrouwen in (bijvoorbeeld van [Proton](https://proton.me/pass) (is een Zwitsers bedrijf dat als verdienmodel privacy heeft. Ik vertrouw ze)).
 - Bewaar al je wachtwoorden in deze password manager (en niet meer elders).
@@ -66,6 +67,7 @@ Over het algemeen: apps die niet gemaakt zijn doro
   - e-mailaccounts
   - Social media accounts (linkedin, Facebook, ...)
   - Belangrijke andere accounts (Apple, Google, Microsoft, etc).
+- Als 2-factor kun je je telefoon gebruiken (smsjes), maar ook een app als [Ente auth](https://ente.io/auth/)
  
 ## Backups en bestanden (beetje moeilijk)
 
