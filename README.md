@@ -1,4 +1,5 @@
 # Privacy en Cyberveiligheid
+Documentje om mijn gedachtes op papier te zetten voor iets dat me bezighoudt de laatste tijd: privacy en security thuis. 
 
 ## Uitgangspunten privacy
 
