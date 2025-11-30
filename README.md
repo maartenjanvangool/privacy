@@ -23,12 +23,18 @@ Maak een lijst van alle apparaten die je gebruikt en verbonden zijn met het inte
   - Zo ja, kan het informatie verzamelen over mij die ik niet wil? 
   - Zo ja, is het apparaat goedkoop te vervangen als de fabrikant het op afstand kapot maakt?  
 
-## Privacy: Browsen (makkelijk)
+## Browsen (makkelijk)
 
 Voor computer, tablet en telefoon:
 - Installeer en gebruik de browser Firefox. Firefox is een browser gemaakt door de Mozilla Foundation, en niet geinteresseerd in je data (itt bijvoorbeeld Chrome of Edge). 
 - Installeer de plugin uBlock Origin in je browser. Deze plugin blokkeert advertenties. Advertenties zijn niet alleen irritant, maar ze verzamelen ook informatie over je.
 - Stel DuckDuckGo in als zoekmachine. DuckDuckGo is een privacyvriendelijker alternatief voor Google.
+
+## Apps (makkelijk)
+- Firefox boven Chrome of Safari
+- Signal boven Whatsapp
+- TomTom boven google (of apple) maps
+- CleanTube boven YouTube
 
 ## Wachtwoorden en tweefactor (beetje moeilijk)
 
