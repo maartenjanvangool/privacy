@@ -60,7 +60,7 @@ Voor computer, tablet en telefoon:
 - TomTom boven google (of apple) maps
 - CleanTube boven YouTube
 
-Over het algemeen: apps die niet gemaakt zijn doro 
+Over het algemeen: apps die niet gemaakt zijn door big tech. 
 
 ## AI Tools (makkelijk)
 Wantrouw AI altijd. Maar als je het echt wil gebruiken, gebruik dan bij voorkeur een AI die je privacy wil beschermen: 
