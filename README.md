@@ -46,8 +46,10 @@ Tips:
 ## Browsen (makkelijk)
 
 Voor computer, tablet en telefoon:
-- Installeer en gebruik de browser Firefox. [Firefox](https://www.firefox.com/nl/browsers/desktop/) is een browser gemaakt door de Mozilla Foundation, en niet geinteresseerd in je data (itt bijvoorbeeld Chrome of Edge). 
-- Installeer de plugin [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) in je browser. Deze plugin blokkeert advertenties. Advertenties zijn niet alleen irritant, maar ze verzamelen ook informatie over je.
+- Installeer en gebruik de browser Firefox. [Firefox](https://www.firefox.com/nl/browsers/desktop/) is een browser gemaakt door de Mozilla Foundation, en niet geinteresseerd in je data (itt bijvoorbeeld Chrome of Edge).
+- Plugins:
+  - Installeer de plugin [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) in je browser. Deze plugin blokkeert advertenties. Advertenties zijn niet alleen irritant, maar ze verzamelen ook informatie over je.
+  - Optioneel: installeer [Improve Youtube](https://addons.mozilla.org/en-US/firefox/addon/youtube-addon/). Met deze plugin kan je de interface van youtube configureren en bijvoorbeeld shorts uitzetten. Vereist wat tweaken en maakt YouTube trager, maar kan je helpen tegen doomscrollen en slop. 
 - Installeer zo min mogelijk plugins verder. Wantrouw plugins tot in het extreme. Plugins kunnen vaak alles zien wat je browst.
 - Installeer geen AI tools in je browser. De AI (en dus het bedrijf erachter) kan niet alleen zien wat je doet, maar kan ook vaak acties uitvoeren in je browser. Dit is supergevaarlijk. 
 - Stel [DuckDuckGo](https://duckduckgo.com/) in als zoekmachine. DuckDuckGo is een privacyvriendelijker alternatief voor Google. 
